@@ -1,0 +1,17 @@
+C:\Users\andre\Source\Repos\Integral_End_Or_Die\Integral\bin\Debug\net6.0-windows\Integral.exe
+C:\Users\andre\Source\Repos\Integral_End_Or_Die\Integral\bin\Debug\net6.0-windows\Integral.deps.json
+C:\Users\andre\Source\Repos\Integral_End_Or_Die\Integral\bin\Debug\net6.0-windows\Integral.runtimeconfig.json
+C:\Users\andre\Source\Repos\Integral_End_Or_Die\Integral\bin\Debug\net6.0-windows\Integral.dll
+C:\Users\andre\Source\Repos\Integral_End_Or_Die\Integral\bin\Debug\net6.0-windows\Integral.pdb
+C:\Users\andre\Source\Repos\Integral_End_Or_Die\Integral\obj\Debug\net6.0-windows\Integral.csproj.AssemblyReference.cache
+C:\Users\andre\Source\Repos\Integral_End_Or_Die\Integral\obj\Debug\net6.0-windows\Integral.Form1.resources
+C:\Users\andre\Source\Repos\Integral_End_Or_Die\Integral\obj\Debug\net6.0-windows\Integral.csproj.GenerateResource.cache
+C:\Users\andre\Source\Repos\Integral_End_Or_Die\Integral\obj\Debug\net6.0-windows\Integral.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Source\Repos\Integral_End_Or_Die\Integral\obj\Debug\net6.0-windows\Integral.AssemblyInfoInputs.cache
+C:\Users\andre\Source\Repos\Integral_End_Or_Die\Integral\obj\Debug\net6.0-windows\Integral.AssemblyInfo.cs
+C:\Users\andre\Source\Repos\Integral_End_Or_Die\Integral\obj\Debug\net6.0-windows\Integral.csproj.CoreCompileInputs.cache
+C:\Users\andre\Source\Repos\Integral_End_Or_Die\Integral\obj\Debug\net6.0-windows\Integral.dll
+C:\Users\andre\Source\Repos\Integral_End_Or_Die\Integral\obj\Debug\net6.0-windows\refint\Integral.dll
+C:\Users\andre\Source\Repos\Integral_End_Or_Die\Integral\obj\Debug\net6.0-windows\Integral.pdb
+C:\Users\andre\Source\Repos\Integral_End_Or_Die\Integral\obj\Debug\net6.0-windows\Integral.genruntimeconfig.cache
+C:\Users\andre\Source\Repos\Integral_End_Or_Die\Integral\obj\Debug\net6.0-windows\ref\Integral.dll
